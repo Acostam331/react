@@ -1,6 +1,6 @@
 import React from 'react';
-import Setup from './tutorial/8-useContext/setup/1-context-api';
-// import Final from './tutorial/2-useEffect/final/3-useEffect-fetch-data';
+import Setup from './tutorial/11-react-router/setup';
+// import Final from './tutorial/11-react-router/final';
 
 function App() {
   return (
