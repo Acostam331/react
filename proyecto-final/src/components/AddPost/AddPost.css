@@ -1,0 +1,28 @@
+.add-card {
+  left: 50%;
+  transform: translate(-50%, 0);
+  bottom: 0;
+  height: 92vh;
+}
+
+.add-icons {
+  font-size: 3vh;
+  color: white;
+}
+
+.new-input-container {
+  height: 50%;
+}
+
+.button-container {
+  height: 15%;
+}
+
+.image-verifier {
+  height: 15vh;
+  margin-bottom: 2rem;
+}
+
+.add-image {
+  height: 100%;
+}

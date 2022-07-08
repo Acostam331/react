@@ -1,0 +1,61 @@
+.square {
+  margin: auto;
+  width: 55%;
+  height: auto;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+.card-img {
+  object-fit: contain;
+  width: 100%;
+  height: 100%;
+}
+
+.card-icons {
+  font-size: 3vh;
+  color: white;
+}
+
+.user-icon {
+  font-size: 3vh;
+  fill: #fff;
+}
+
+.heart-icon:hover {
+  fill: red;
+}
+
+.heart-icon:active {
+  fill: red;
+}
+
+/* will change */
+.bookmark-icon:hover {
+  color: red;
+}
+
+/* will change */
+.bookmark-icon:active {
+  fill: red;
+}
+
+.icon-filled {
+  fill: red;
+}
+
+.w-b {
+  width: 100%;
+  word-break: break-all;
+}
+
+@media (max-width: 600px) {
+  .square {
+    width: 90%;
+  }
+
+  .card-img {
+    width: 90%;
+    height: 300px;
+  }
+}

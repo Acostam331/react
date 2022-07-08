@@ -1,0 +1,13 @@
+.square {
+  margin: auto;
+  width: 55%;
+  height: auto;
+  margin-top: 2vh;
+  margin-bottom: 2vh;
+}
+
+@media (max-width: 600px) {
+  .square {
+    width: 90%;
+  }
+}

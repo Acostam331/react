@@ -1,0 +1,44 @@
+.comment-card {
+  left: 50%;
+  transform: translate(-50%, 0);
+  bottom: 0;
+  height: 92vh;
+}
+
+.comments-icons {
+  font-size: 3vh;
+  color: white;
+}
+
+.no-comments-icon {
+  font-size: 8vh;
+  color: white;
+}
+
+.user-icon {
+  font-size: 3.5vh;
+  color: white;
+}
+
+.title-container {
+  height: 15%;
+}
+
+.comments-container {
+  height: 70%;
+  overflow-y: scroll;
+}
+
+.input-container {
+  height: 15%;
+}
+
+.comment-input {
+  width: 90%;
+  height: 33%;
+}
+
+.new-comment-icon {
+  font-size: 3.5vh;
+  color: white;
+}
